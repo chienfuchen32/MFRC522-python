@@ -28,3 +28,12 @@ You can use [this](http://i.imgur.com/y7Fnvhq.png) image for reference.
 
 ##Usage
 Import the class by importing MFRC522 in the top of your script. For more info see the examples.
+
+##Searching for keys:
+python try_key.py
+
+![Image of time](https://github.com/chienfuchen32/MFRC522-python/blob/master/time.png)
+
+![Image of status](https://github.com/chienfuchen32/MFRC522-python/blob/master/status.png)
+
+So, see you next century I guess.
